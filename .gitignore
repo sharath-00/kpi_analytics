@@ -1,0 +1,13 @@
+# Environment and Secrets
+.env
+*.env
+service_account.json
+*service_account*.json
+*credentials*.json
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
