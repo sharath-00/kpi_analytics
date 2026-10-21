@@ -1,5 +1,5 @@
 """
-Schnell Energy Technologies - Gateway KPI Mail Dashboard Generator & Sync
+Schnell Energy Equipments - Gateway KPI Mail Dashboard Generator & Sync
 Fetches live data from Google Sheets API, recalculates fault weights and KPIs,
 and outputs the executive HTML email dashboard (mail_dashboard.html).
 """
@@ -357,7 +357,7 @@ def render_html_dashboard(rows, report_date, report_time):
                         </td>
                         <td valign="middle">
                           <div style="font-size: 11px; text-transform: uppercase; letter-spacing: 1.5px; color: #38bdf8; font-weight: 700; margin-bottom: 4px;">
-                            Schnell Energy Technologies • IoT Operations
+                            Schnell Energy Equipments • IoT Operations
                           </div>
                           <h1 style="margin: 0; font-size: 22px; font-weight: 800; color: #ffffff; line-height: 1.25;">
                             Gateway KPI & Fault Analytics Mail Dashboard

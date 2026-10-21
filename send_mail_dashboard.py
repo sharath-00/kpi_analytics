@@ -1,5 +1,5 @@
 """
-Schnell Energy Technologies - Gateway KPI Mail Dashboard Dispatcher
+Schnell Energy Equipments - Gateway KPI Mail Dashboard Dispatcher
 This script sends the generated executive mail dashboard (mail_dashboard.html) via SMTP.
 """
 
