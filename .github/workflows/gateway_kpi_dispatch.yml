@@ -9,8 +9,7 @@ on:
   workflow_dispatch:
 
   # 3. Optional: Scheduled automated daily run at 17:40 IST (12:10 UTC)
-  schedule:
-    - cron: '10 12 * * *'
+
 
 jobs:
   dispatch-kpi-mail:
